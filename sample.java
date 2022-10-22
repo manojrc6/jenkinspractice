@@ -6,6 +6,6 @@ public class HelloGuys{
     System.out.println("Hello kumar");
     System.out.println("Hello Ragu");
     System.out.println("Hello Ravi");
-    System.out.println("Hello vijay");
+    System.out.println("Hello surya");
       }
 }
