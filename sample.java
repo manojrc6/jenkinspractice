@@ -7,6 +7,5 @@ public class HelloGuys{
     System.out.println("Hello Ragu");
     System.out.println("Hello Ravi");
     System.out.println("Hello surya");
-    System.out.println("Hello vikram");
       }
 }
